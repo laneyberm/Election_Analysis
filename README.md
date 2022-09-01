@@ -29,16 +29,16 @@
 - The winner of the election was:
   - Diana DeGette, who recieved 73.8% of the vote and 272,892 number of the votes
 #### After running the python code, the following results were displayed in a text file for easy viewing:
-![Colorado Counties' Election Results](/Resources/election_results.png)
+<img src="https://github.com/laneyberm/Election_Analysis/blob/main/Resources/election_results.png" width="300">
 
 #### We used the following Python code to calculate the counties' votes:
-![Colorado Counties' Votes](/Resources/county_votes.png)
+<img src="https://github.com/laneyberm/Election_Analysis/blob/main/Resources/county_votes.png" width="450">
 
 #### We used the following Python code to calculate the county with the largest turnout:
-![Colorado Largest County Turnout](/Resources/county_turnout.png)
+<img src="https://github.com/laneyberm/Election_Analysis/blob/main/Resources/county_turnout.png" width="600">
 
 #### We used the following Python code to calculate the candidates performance and winning candidate:
-![Colorado Candidates Results](/Resources/winning_candidate.png)
+<img src="https://github.com/laneyberm/Election_Analysis/blob/main/Resources/winning_candidate.png" width="500">
 
 ## Election-Audit Summary
 In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.There is a statement to the election commission that explores how this script can be used for any election, with two examples for modifying the script. (4 pt)
