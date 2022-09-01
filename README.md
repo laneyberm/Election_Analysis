@@ -41,4 +41,6 @@
 <img src="https://github.com/laneyberm/Election_Analysis/blob/main/Resources/winning_candidate.png" width="500">
 
 ## Election-Audit Summary
-In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.There is a statement to the election commission that explores how this script can be used for any election, with two examples for modifying the script. (4 pt)
+The winner of the election is Diana DeGette with 73.8% of the vote. 
+
+In future elections, the above coding would be able to analyze different candidate names or different counties. Additionally, this type of coding could be used to analyze voters' party affiliation, gender, age, race, and type of voting: mail in, early and day of. This coding could also in as narrow of a scope of a school board election by changing the candidate name coding to new school board names or as large as national elections by changing the county names to state names to find how each state votes for the president. 
