@@ -1,21 +1,21 @@
-# Election_Analysis
+# Colorado's Local Congressional Election Audit
 
 ## Project Overview
-A colorado Board of Elections employee has given you the following tasks to comeplare the election audit of a recent local congressional election. 
-
-1. Calculate the total number of votes cast. 
-2. Get a complete list of candidates who recieved votes. 
-3. Calculate the total number of votes each candidate recieved. 
-4. Calculate the percentage of votes each candidate won. 
-5. Determine the winner of the election based on popular vote. 
+A Colorado Board of Elections employees, Tom and Seth, has given us a data consisting of a number for the ballot ID and a name for the county and candidate, respectively. At this point, we don't know how many counties and candidates are in the file. Overall, the data appears readable and there are no unusual row values that we can see. We have been given election audit tasks to analyze the data and produce the election results to be presented to the election committee. We will be creating a Python code to analyze the CSV (comma-seperated-values) file to find the elections results. 
 
 ## Resources
 - Data Source: election_results.csv
--Software: Python 3.10.6, Visual Studio Code, 1.70.2
+- Software: Python 3.10.6, Visual Studio Code, 1.70.2
 
-## Summary
+## Election-Audit Results
 The analysis of the election show that:
 - There were 369,711 votes cast in the election.
+- The county turnout results were: 
+  - Jefferson County recieved 10.5% of the vote and 38,855 number of the votes
+  - Denver County recieved 82.8% of the vote and 306,055 number of the votes
+  - Arapahoe County recieved 6.7% of the vote and 24,801 number of the votes
+- The county with the largest county turnout was:
+  - Denver, which recieved 82.8% of the vote and 306,055 number of the votes
 - The candidates were:
   - Charles Casper Stockham
   - Diana DeGette
@@ -30,3 +30,35 @@ The analysis of the election show that:
 ## Challenge Overview
 
 ## Challenge Summary
+
+Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
+
+How many votes were cast in this congressional election?
+Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+Which county had the largest number of votes?
+Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+
+Deliverable 3 Requirements
+Structure, Organization, and Formatting (6 points)
+The written analysis has the following structure, organization, and formatting:
+
+There is a title, and there are multiple sections. (2 pt)
+
+Each section has a heading. (2 pt)
+
+Links to images are working, and code is formatted and displayed correctly. (2 pt)
+
+Analysis (14 points)
+The written analysis has the following:
+
+Overview of Election Audit
+
+The purpose of this election analysis audit is well defined. (3 pt)
+Election Audit Results
+
+There is a bulleted list where each election outcome is addressed. (7 pt)
+Election Audit Summary
+
+There is a statement to the election commission that explores how this script can be used for any election, with two examples for modifying the script. (4 pt)
